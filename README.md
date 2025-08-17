@@ -9,7 +9,7 @@ BBSR Grocery is a **digital shopping platform** designed to deliver fresh grocer
 ## ✨ Features
 
 - 🔐 **User Authentication** – Secure login and signup  
-- 🛍️ **Product Catalog** – Browse from 1000+ fresh groceries  
+- 🛍️ **Product Catalog** – Browse from 1000+ fresh groceries   
 - 🛒 **Shopping Cart** – Add, update, and remove products easily  
 - 💳 **Checkout & Payment Integration** – Seamless order processing (Razorpay/Stripe ready)  
 - 📍 **Location-Based Delivery** – Smart delivery system across Bhubaneswar  
