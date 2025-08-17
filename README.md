@@ -76,9 +76,3 @@ bbsr-grocery/
 
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify.
-
-## 👨‍💻 Author
-Pratham Sharma
-- 🌐 GitHub
-- 💼 LinkedIn
-- ✉️ your-email@example.com
