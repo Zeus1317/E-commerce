@@ -74,5 +74,3 @@ bbsr-grocery/
 - 🛒 Advanced filters & search
 - 👨‍💻 Admin dashboard for product management
 
-## 📜 License
-This project is licensed under the MIT License – feel free to use and modify.
